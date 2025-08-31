@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋, I'm Moudabir  
 
-<!--
-**Moudabir/Moudabir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I’m passionate about coding, open-source, and learning new technologies.  
+🌱 I’m currently learning **JavaScript & React**.  
+🤝 I’m open to collaborate on interesting projects.  
+📫 How to reach me: [your email]  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Skills & Tools
+- Languages: Python, JavaScript, C++
+- Tools: Git, VS Code, Linux
+
+---
+
+### 📊 GitHub Stats
+![Moudabir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moudabir&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Moudabir&layout=compact)
+
+---
+
+### 🐍 Fun (Snake Contributions)
+![snake gif](https://github.com/Moudabir/Moudabir/blob/output/github-contribution-grid-snake.svg)
