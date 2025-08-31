@@ -3,7 +3,7 @@
 💻 I’m passionate about coding, open-source, and learning new technologies.  
 🌱 I’m currently learning **JavaScript & React**.  
 🤝 I’m open to collaborate on interesting projects.  
-📫 How to reach me: [your email]  
+📫 How to reach me: Mo.moudabir@gmail.com  
 
 ---
 
