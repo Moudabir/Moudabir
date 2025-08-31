@@ -1,3 +1,6 @@
+[![Visit Masarifi](https://img.shields.io/badge/Masarifi-Visit-blue?style=for-the-badge)](http://masarifi.kesug.com/)
+[![Open Safari Voyage](https://img.shields.io/badge/Safari_Voyage-Open-green?style=for-the-badge)](https://safari-voyage-planner-pro.lovable.app/)
+
 # Hi there 👋, I'm Moudabir  
 
 💻 I’m passionate about coding, open-source, and learning new technologies.  
