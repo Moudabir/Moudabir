@@ -1,45 +1,64 @@
-# 👋 Hey, I'm Moe
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Hey,%20I'm%20Simo&fontSize=50&animation=fadeIn" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70C1B3&center=true&vCenter=true&width=435&lines=Building+for+fun;Automation+enthusiast;D%26D+Dungeon+Master;Chess+player;Tinkering+with+APIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=70C1B3&center=true&vCenter=true&width=500&lines=Digital+Tinkerer;D%26D+Dungeon+Master;Chess+Enthusiast;Automation+Explorer" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🕹️ About Me
-I’m just a guy who enjoys breaking things and putting them back together—usually with code. By day, I'm in the world of hospitality, but here, I'm usually experimenting with new tools just to see what they can do.
-
-- 🎲 **Tabletop:** I spend a lot of time building custom D&D campaigns (building worlds is better with automation).
-- ⚙️ **Workflow:** Currently obsessed with **n8n** and making different apps talk to each other.
-- ♟️ **Chess:** Always down for a game or analyzing a weird PGN.
-- 🛠️ **Tech:** Just exploring whatever looks interesting—lately that's AI agents and smart workflows.
-
----
-
-### 🧰 The Toolkit (Stuff I play with)
-[![My Skills](https://skillicons.dev/icons?i=js,python,n8n,docker,mysql,notion,figma,github)](https://skillicons.dev)
-
----
-
-### 📊 Coding Activity (Just for fun)
+### 🕹️ The Playbook
 <p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Moudabir&show_icons=true&theme=tokyonight&hide_border=true&title_color=70C1B3&icon_color=70C1B3" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moudabir&layout=compact&theme=tokyonight&hide_border=true&title_color=70C1B3" />
+  <i>Building things for the fun of it, from automated worlds to custom workflows.</i>
+</p>
+
+<table align="center">
+  <tr>
+    <td width="50%" align="left">
+      <b>🎲 Tabletop Logic</b><br>
+      Creating custom D&D campaigns with a focus on world-building and automation.
+    </td>
+    <td width="50%" align="left">
+      <b>♟️ Chess Strategy</b><br>
+      Analyzing PGNs and hunting for that perfect endgame.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="left">
+      <b>⚙️ Workflow Lab</b><br>
+      Pushing <b>n8n</b> to its limits and connecting the dots with APIs.
+    </td>
+    <td width="50%" align="left">
+      <b>🛠️ Tech Tinkering</b><br>
+      Exploring AI agents and modern dev tools just to see how they work.
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🧰 The Toolkit
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,py,n8n,docker,mysql,notion,figma,github&theme=dark" />
+  </a>
 </p>
 
 ---
 
-### 🏗️ Recent Experiments
-*   **D&D Logic:** Automating world-building and character stats.
-*   **Workflow Ops:** Seeing how far I can push n8n without breaking my computer.
-*   **Design:** Messing around with logos and layouts.
+### 📊 Vital Signs
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Moudabir&show_icons=true&theme=tokyonight&hide_border=true&title_color=70C1B3&icon_color=70C1B3&bg_color=0D1117" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moudabir&layout=compact&theme=tokyonight&hide_border=true&title_color=70C1B3&bg_color=0D1117" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moudabir&theme=tokyonight&hide_border=true&stroke=70C1B3&ring=70C1B3&fire=70C1B3&background=0D1117" alt="GitHub Streak" />
+</p>
 
 ---
 
 <p align="center">
-  <i>"I have no special talent. I am only passionately curious."</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=24292e&height=60&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=70C1B3&height=100&section=footer" />
 </p>
