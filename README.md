@@ -16,17 +16,17 @@
 <table align="center" style="margin: 0 auto;">
   <tr>
     <td width="50%" align="left">
-      <b>🎲 Tabletop Logic</b><br>
+      <b> Tabletop Logic</b><br>
       Creating custom D&D campaigns with a focus on world-building and automation.
     </td>
     <td width="50%" align="left">
-      <b>♟️ Chess Strategy</b><br>
-      Analyzing PGNs and hunting for that perfect endgame.
+      <b> Tweaking sometimes</b><br>
+      Tweaking 100% or 0% 17 black. 
     </td>
   </tr>
   <tr>
     <td width="50%" align="left">
-      <b>⚙️ Workflow Lab</b><br>
+      <b> Workflow Lab</b><br>
       Pushing <b>n8n</b> to its limits and connecting the dots with APIs.
     </td>
     <td width="50%" align="left">
