@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Hey,%20I'm%20Moe&fontSize=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Hey,%20I'm%20Moe&fontSize=50&animation=fadeIn&bg_color=0D1117" />
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
   <i>Building things for the fun of it, from automated worlds to custom workflows.</i>
 </p>
 
-<table align="center">
+<table align="center" style="margin: 0 auto;">
   <tr>
     <td width="50%" align="left">
       <b>🎲 Tabletop Logic</b><br>
@@ -47,18 +47,19 @@
 
 ---
 
-### 📊 Vital Signs
+### 📊 Vital Signs (Fixed & Centered)
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moudabir&theme=tokyonight&hide_border=true&stroke=70C1B3&ring=70C1B3&fire=70C1B3&background=0D1117" alt="GitHub Streak" width="70%" style="margin-bottom: 20px;"/>
+</p>
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Moudabir&show_icons=true&theme=tokyonight&hide_border=true&title_color=70C1B3&icon_color=70C1B3&bg_color=0D1117" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moudabir&layout=compact&theme=tokyonight&hide_border=true&title_color=70C1B3&bg_color=0D1117" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moudabir&theme=tokyonight&hide_border=true&stroke=70C1B3&ring=70C1B3&fire=70C1B3&background=0D1117" alt="GitHub Streak" />
-</p>
-
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=70C1B3&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=70C1B3&height=100&section=footer&bg_color=0D1117" />
 </p>
