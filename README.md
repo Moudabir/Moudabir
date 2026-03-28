@@ -30,7 +30,7 @@
       Pushing <b>n8n</b> to its limits and connecting the dots with APIs.
     </td>
     <td width="50%" align="left">
-      <b>🛠️ Tech Tinkering</b><br>
+      <b> Tech Tinkering</b><br>
       Exploring AI agents and modern dev tools just to see how they work.
     </td>
   </tr>
@@ -38,7 +38,7 @@
 
 ---
 
-### 🧰 The Toolkit
+### The Toolkit
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,py,n8n,docker,mysql,notion,figma,github&theme=dark" />
@@ -47,7 +47,7 @@
 
 ---
 
-### 📊 Vital Signs 
+### Vital Signs 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moudabir&theme=tokyonight&hide_border=true&stroke=70C1B3&ring=70C1B3&fire=70C1B3&background=0D1117" alt="GitHub Streak" width="70%" style="margin-bottom: 20px;"/>
